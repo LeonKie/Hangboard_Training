@@ -112,7 +112,7 @@ while current_time < 60*10: #10 min
     
     
     workout_name= workout_name_next
-    workout_name_next = "1 Set of 4 finger 40mm"
+    workout_name_next = "Done!!"
     print("1 Set of 4 finger 40mm")
     # 10s workout
     workout(10,last=True,title=getTitle(workout_name))
